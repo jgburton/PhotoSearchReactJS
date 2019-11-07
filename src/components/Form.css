@@ -1,0 +1,44 @@
+* form {
+  font-family:"Proxima Nova", "Arial" !important;
+  margin: 2vw;
+}
+
+button {
+  background-color: #007CB0 !important;
+  color:white !important;
+  margin-top: 10px !important;
+}
+
+input {
+  caret-color: #007CB0;
+  border-radius: 0px !important;
+  width: 390px !important;
+  border: 1px solid #BDBDBD !important;
+}
+
+
+label {
+top: 0;
+left: 0;
+display: block;
+width: 100%;
+margin-bottom: 0;
+line-height: 1.5;
+color: #000000;
+border: 1px solid transparent;
+transition: all .1s ease-in-out;
+font-size: 16px;
+font-weight: bold;
+letter-spacing: 0.15px;
+line-height: 24px;
+}
+
+.mandatory {
+  color: grey;
+}
+
+.invalid-feedback {
+  color: #dc3545;
+  font-size: 1rem;
+  font-size: 80%;
+}
