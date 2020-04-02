@@ -1,8 +1,8 @@
-## React Pics
-React Pics is a web app that uses the Unsplash API to search and display images. Using a React.js front-end and firebase hosting.
+## Photo Search 
+Photo Search is a web app that uses the Unsplash API to search and display images. Using a React.js front-end and firebase hosting.
 <a href="https://reactpics.firebaseapp.com/ ">Check it out on Firebase</a>
 
-![Image of React-Pics](/images/screenshot.png)
+![Image of Photo Search](/images/screenshot.png)
 
 ## Technologies Used
 ### Front-End
